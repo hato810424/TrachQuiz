@@ -1,0 +1,65 @@
+2026-03-13 22:43:18 - TrachQuizServer - INFO - Server starting up...
+2026-03-13 22:43:18 - TrachQuizServer - INFO - NFC Worker started...
+2026-03-13 22:43:18 - TrachQuizServer - ERROR - Could not open NFC reader. Is it connected?
+2026-03-13 22:43:18 - TrachQuizServer - INFO - NFC Reader closed.
+2026-03-13 22:43:45 - TrachQuizServer - INFO - Server starting up...
+2026-03-13 22:43:45 - TrachQuizServer - INFO - NFC Worker started...
+2026-03-13 22:43:45 - TrachQuizServer - INFO - NFC Reader opened: ACS ACR122U PN532v1.6 at usb:002:002
+2026-03-13 22:44:25 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 22:47:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:31 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:31 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:47:32 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:32 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:32 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:47:35 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:35 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:35 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:47:35 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:35 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:35 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:47:40 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:40 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:40 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:47:40 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:40 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:40 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:47:43 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:43 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:43 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:47:44 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:44 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:44 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:47:47 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:47 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:47 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:47:48 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-13 22:47:48 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-13 22:47:48 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-13 22:57:18 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 22:57:19 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 22:57:51 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 22:57:52 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 22:58:01 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 22:58:01 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:04:38 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:04:39 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:13:08 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:13:09 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:13:12 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:13:13 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:13:15 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:13:16 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:14:41 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:14:42 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:17:55 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:17:56 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:23:48 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:23:49 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:23:54 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:23:55 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:27:44 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:27:45 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:43:23 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-13 23:43:24 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-13 23:43:37 - TrachQuizServer - INFO - Client disconnected. Active connections: 0

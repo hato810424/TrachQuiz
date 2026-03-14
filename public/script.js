@@ -332,8 +332,22 @@ document.addEventListener('DOMContentLoaded', () => {
         totalTime += questionTime;
 
         const currentItem = currentQuestions[currentQuestionIndex];
-        // For now, only the first option key is treated as correct
-        const isCorrect = selectedKey === optionKeys[0];
+        
+        // Determine if the answer is correct by comparing method
+        // If selectedKey is an NFC category name (not a keyboard key), do direct string comparison
+        // Otherwise, use keyboard input logic (comparing with optionKeys[0])
+        let isCorrect = false;
+        
+        // Check if selectedKey is a keyboard input (a, b, c, d) or an NFC category name
+        if (selectedKey === 'a' || selectedKey === 'b' || selectedKey === 'c' || selectedKey === 'd') {
+            // Keyboard input mode: compare with optionKeys[0]
+            isCorrect = selectedKey === optionKeys[0];
+            console.log('Keyboard input detected. isCorrect:', isCorrect);
+        } else {
+            // NFC category name mode: direct string comparison with currentItem.answer
+            isCorrect = selectedKey === currentItem.answer;
+            console.log('NFC category detected. Comparing:', selectedKey, 'with answer:', currentItem.answer, 'isCorrect:', isCorrect);
+        }
 
         // Show judgement mark
         if (isCorrect) {
