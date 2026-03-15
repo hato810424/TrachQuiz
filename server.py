@@ -164,16 +164,23 @@ async def websocket_endpoint(websocket: WebSocket):
         manager.disconnect(websocket)
 
 # --- API Routes (must be defined before static files mount) ---
-@app.get("/api/rules/{city}")
-async def get_rules(city: str):
-    """Serve rules JSON for a specific city"""
-    rules_file = Path("rules") / f"{city}.json"
-    if rules_file.exists():
-        with open(rules_file, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    raise HTTPException(status_code=404, detail=f"Rules not found for {city}")
+# @app.get("/api/rules/{city}")
+# async def get_rules(city: str):
+#     """Serve rules JSON for a specific city"""
+#     rules_file = Path("rules") / f"{city}.json"
+#     if rules_file.exists():
+#         with open(rules_file, 'r', encoding='utf-8') as f:
+#             return json.load(f)
+#     raise HTTPException(status_code=404, detail=f"Rules not found for {city}")
 
 # --- Static Files Setup (mount last to avoid intercepting API routes) ---
+# Mount rules folder for static JSON files
+rules_dir = Path("rules")
+if rules_dir.exists():
+    app.mount("/rules", StaticFiles(directory=str(rules_dir)), name="rules")
+else:
+    logger.warning(f"Rules directory not found: {rules_dir}")
+
 # Mount public folder for static files
 public_dir = Path("public")
 if public_dir.exists():

@@ -1,0 +1,72 @@
+2026-02-17 00:01:05 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:09:34 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:09:35 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:09:43 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:09:43 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:13:44 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:13:45 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:13:49 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:13:51 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:13:54 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:13:56 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:18:16 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:18:16 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:22:20 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:22:21 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:40:18 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:40:19 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:45:55 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:45:56 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:51:53 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:51:55 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:51:57 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:51:57 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:55:04 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:55:05 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:55:09 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:55:10 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:55:12 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:55:12 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:55:14 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:55:14 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 00:59:18 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 00:59:18 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 01:03:37 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 01:03:38 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 01:46:16 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 01:48:15 - TrachQuizServer - INFO - Server starting up...
+2026-02-17 01:48:15 - TrachQuizServer - INFO - NFC Worker started...
+2026-02-17 01:48:15 - TrachQuizServer - ERROR - Could not open NFC reader. Is it connected?
+2026-02-17 01:48:15 - TrachQuizServer - INFO - NFC Reader closed.
+2026-02-17 01:48:30 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 01:51:09 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 01:51:09 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 01:52:48 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 01:52:49 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 01:58:46 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 01:58:47 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 01:59:01 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 13:53:28 - TrachQuizServer - INFO - Server starting up...
+2026-02-17 13:53:28 - TrachQuizServer - INFO - NFC Worker started...
+2026-02-17 13:54:04 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:02:03 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:02:04 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:03:10 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:03:11 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:10:30 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:10:31 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:15:03 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:15:04 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:21:45 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:21:46 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:22:11 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:22:12 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:22:13 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:22:13 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:22:14 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:22:14 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:22:34 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:22:36 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:24:31 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-17 14:24:32 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-17 14:52:03 - TrachQuizServer - INFO - Client disconnected. Active connections: 0

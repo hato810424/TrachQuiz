@@ -1,0 +1,164 @@
+[
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "title": "おかしのふくろ",
+    "question": "ポテトチップスなど「おかしのふくろ」は何のごみ？",
+    "answer": "プラスチック製容器包装・製品",
+    "explanation": "「プラマーク」がついているふくろは、リサイクルして新しいプラスチックに変身するよ。せんざいで、中をきれいにしてからすてよう。",
+    "image": ""
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "title": "ジュースのふた",
+    "question": "ペットボトルの「キャップ（ふた）」は何のごみ？",
+    "answer": "プラスチック製容器包装・製品",
+    "explanation": "ふたは「ペットボトル」のごみとは別に出してね",
+    "image": ""
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "title": "えんぴつ",
+    "question": "「えんぴつ」はなんのごみ？",
+    "answer": "燃やせるごみ",
+    "explanation": "えんぴつは木でできているから「もやせるごみ」だよ",
+    "image": ""
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "title": "しんぶんし",
+    "question": "「しんぶんし」はなんのごみ？",
+    "answer": "古紙",
+    "explanation": "しんぶんしはひもでしばってだすと、また新しいかみになるよ",
+    "image": ""
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "title": "ダンボール",
+    "question": "「ダンボール」は何のごみ？",
+    "answer": "古紙",
+    "explanation": "ガムテープをはがして、たいらにしてからひもでしばろう",
+    "image": ""
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "title": "ぎゅうにゅうぱっく",
+    "question": "「ぎゅうにゅうぱっく」は何のごみ？",
+    "answer": "古紙",
+    "explanation": "はさみで開いて、乾かしてから出してね。リサイクルされるよ",
+    "image": ""
+  },
+  {
+    "id": 31,
+    "difficulty": "easy",
+    "title": "おえかき",
+    "question": "「くれよん」は何のごみ？",
+    "answer": "燃やせるごみ",
+    "explanation": "クレヨンは「もやせるごみ」に分けてね",
+    "image": ""
+  },
+  {
+    "id": 32,
+    "difficulty": "easy",
+    "title": "かんでんち",
+    "question": "「でんち」を「もやせるごみ」ですてていい？",
+    "answer": "燃やせないごみ",
+    "explanation": "電池を燃やせるごみに混ぜると火事になるから、絶対だめだよ",
+    "image": ""
+  },
+  {
+    "id": 33,
+    "difficulty": "easy",
+    "title": "かん",
+    "question": "ジュースやココアの「かん」は何のごみ？",
+    "answer": "かん",
+    "explanation": "中をあらってから、すてよう",
+    "image": ""
+  },
+  {
+    "id": 34,
+    "difficulty": "easy",
+    "title": "こわれたおもちゃ",
+    "question": "プラスチックでできた「かたいおもちゃ」がこわれちゃった",
+    "answer": "燃やせないごみ",
+    "explanation": "かたいプラスチックのおもちゃは、もやせないごみなんだ",
+    "image": ""
+  },
+  {
+    "id": 35,
+    "difficulty": "easy",
+    "title": "たべのこし",
+    "question": "「たべのこし」はなんのごみ？",
+    "answer": "燃やせるごみ",
+    "explanation": "水をよくきってからすてる。",
+    "image": ""
+  },
+  {
+    "id": 36,
+    "difficulty": "easy",
+    "title": "ふく",
+    "question": "からだがおおきくなって、きられなくなった、ふく",
+    "answer": "古着・古布",
+    "explanation": "きれいなふくはすてずに、リサイクル",
+    "image": ""
+  },
+  {
+    "id": 37,
+    "difficulty": "easy",
+    "title": "ふく",
+    "question": "しゃつ、くつした、パンツ。おおきくなってきられなくなった",
+    "answer": "燃やせるごみ",
+    "explanation": "したぎは、もやせるごみだよ。",
+    "image": ""
+  },
+  {
+    "id": 38,
+    "difficulty": "easy",
+    "title": "われたコップ",
+    "question": "ガラスのコップをおとして、わってしまった。",
+    "answer": "燃やせないごみ",
+    "explanation": "われたものはあぶないから、かみにつつんで「もやせないごみ」",
+    "image": ""
+  },
+  {
+    "id": 39,
+    "difficulty": "easy",
+    "title": "かさ",
+    "question": "こわれた「かさ」",
+    "answer": "燃やせないごみ",
+    "explanation": "「もやせないごみ」になるから、たいせつにつかおう",
+    "image": ""
+  },
+  {
+    "id": 40,
+    "difficulty": "easy",
+    "title": "みかんのネット",
+    "question": "みかんが入っている「あみあみ」のネット",
+    "answer": "プラスチック製容器包装・製品",
+    "explanation": "プラスチックですててね",
+    "image": ""
+  },
+  {
+    "id": 41,
+    "difficulty": "easy",
+    "title": "おふろのおもちゃ",
+    "question": "おふろであそぶビニールの「あひる」は、なにのごみ",
+    "answer": "燃やせるごみ",
+    "explanation": "やわらかいビニールのおもちゃは「燃やせるごみ」だよ",
+    "image": ""
+  },
+  {
+    "id": 42,
+    "difficulty": "easy",
+    "title": "すてかた",
+    "question": "おとうさんが、ごみのすてかたで、こまっていた。マッシュ君にきいてみてとアドバイスした。",
+    "answer": "〇",
+    "explanation": "おとうさん、おかあさんがこまっていたら、ラインでマッシュ君にきいてみよう。",
+    "image": ""
+  }
+]

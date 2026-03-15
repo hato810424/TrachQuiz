@@ -1,0 +1,443 @@
+2026-03-11 21:49:30 - TrachQuizServer - INFO - Server starting up...
+2026-03-11 21:49:30 - TrachQuizServer - INFO - NFC Worker started...
+2026-03-11 21:49:30 - TrachQuizServer - ERROR - Could not open NFC reader. Is it connected?
+2026-03-11 21:49:30 - TrachQuizServer - INFO - NFC Reader closed.
+2026-03-11 21:49:52 - TrachQuizServer - INFO - Server starting up...
+2026-03-11 21:49:52 - TrachQuizServer - INFO - NFC Worker started...
+2026-03-11 21:49:52 - TrachQuizServer - INFO - NFC Reader opened: ACS ACR122U PN532v1.6 at usb:002:002
+2026-03-11 21:50:25 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 21:54:39 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 21:54:40 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 21:58:49 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 21:58:51 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 22:09:35 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 22:09:35 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 22:09:46 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:09:46 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:09:46 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:09:46 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:09:46 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:09:46 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:09:56 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:09:56 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:09:56 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:09:57 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:09:57 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:09:57 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:10:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:10:22 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:10:22 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:10:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:10:25 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:10:25 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:10:34 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:10:34 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:10:34 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:00 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 22:20:00 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 22:20:05 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:05 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:05 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:06 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:06 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:06 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:09 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:09 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:09 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:10 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:10 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:10 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:10 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:10 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:10 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:12 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:12 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:12 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:13 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:13 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:13 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:14 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:14 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:14 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:14 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:14 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:14 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:15 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:15 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:15 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:15 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:15 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:15 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:16 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:16 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:16 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:16 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:16 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:16 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:17 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:17 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:17 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:17 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:17 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:17 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:18 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:18 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:18 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:18 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:18 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:18 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:19 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:19 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:19 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:19 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:19 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:19 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:20 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:20 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:20 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:20:21 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:20:21 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:20:21 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:21:16 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 22:21:17 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 22:23:56 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 22:23:57 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 22:24:04 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:04 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:04 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:04 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:04 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:04 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:07 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:07 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:07 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:07 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:07 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:07 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:09 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:09 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:09 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:10 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:10 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:10 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:11 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:11 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:11 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:11 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:11 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:11 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:12 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:12 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:12 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:13 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:13 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:13 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:15 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:15 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:15 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:15 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:15 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:15 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:36 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:36 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:36 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:43 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:43 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:43 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:44 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:44 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:44 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:44 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:44 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:44 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:45 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:45 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:45 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:50 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:50 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:50 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:55 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:55 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:55 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:55 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:55 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:55 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:56 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:56 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:56 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:56 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:56 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:56 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:24:59 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:24:59 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:24:59 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:33 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:33 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:33 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:34 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:34 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:34 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:41 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:41 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:41 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:41 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:41 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:41 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:44 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:44 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:44 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:45 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:45 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:45 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:45 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:45 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:45 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:46 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:46 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:46 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:49 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:49 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:49 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:50 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:50 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:50 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:50 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:50 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:50 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:51 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:51 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:51 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:52 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:52 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:52 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:52 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:52 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:52 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:53 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:53 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:53 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:25:53 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:25:53 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:25:53 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:00 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 22:26:00 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 22:26:05 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:05 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:05 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:06 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:06 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:06 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:11 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:11 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:11 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:12 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:12 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:12 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:17 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:17 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:17 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:18 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:18 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:18 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:22 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:22 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:22 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:22 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:25 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:25 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:25 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:25 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:26 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:26 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:26:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:26:26 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:26:26 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:31:02 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 22:31:03 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 22:31:06 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:31:06 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:31:06 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:31:07 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:31:07 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:31:07 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:31:12 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 22:31:12 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 22:31:12 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 22:55:06 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:00:35 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:00:59 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:01:00 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:06:05 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:06:05 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:06:10 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:06:11 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:06:51 - TrachQuizServer - INFO - Server starting up...
+2026-03-11 23:06:51 - TrachQuizServer - INFO - NFC Worker started...
+2026-03-11 23:06:51 - TrachQuizServer - INFO - NFC Reader opened: ACS ACR122U PN532v1.6 at usb:002:002
+2026-03-11 23:07:05 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:15:58 - TrachQuizServer - INFO - Server starting up...
+2026-03-11 23:15:58 - TrachQuizServer - INFO - NFC Worker started...
+2026-03-11 23:15:58 - TrachQuizServer - INFO - NFC Reader opened: ACS ACR122U PN532v1.6 at usb:002:002
+2026-03-11 23:15:59 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:16:18 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:16:19 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:16:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:16:25 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:16:25 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:16:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:16:26 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:16:26 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:16:30 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:16:30 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:16:30 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:16:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:16:31 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:16:31 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:16:34 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:16:34 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:16:34 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:16:36 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:16:36 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:16:36 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:16:37 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:16:37 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:16:37 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:16:38 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:16:38 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:16:38 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:22:00 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:22:01 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:22:09 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:22:09 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:22:09 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:22:15 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:22:15 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:22:15 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:22:15 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:22:15 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:22:15 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:22:22 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:22:23 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:22:24 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:22:24 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:22:29 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:22:29 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:22:29 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:24:19 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:24:20 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:24:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:24:25 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:24:25 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:24:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:24:25 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:24:25 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:24:40 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:24:40 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:24:40 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:24:40 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:24:40 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:24:40 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:29:28 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:29:29 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:29:32 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:29:32 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:29:32 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:29:57 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:29:57 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:30:00 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:30:00 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:30:00 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:30:01 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:30:01 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:30:01 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:34:55 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:34:55 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:35:03 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:35:03 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:35:03 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:35:03 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:35:03 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:35:03 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:35:18 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:35:18 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:35:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:35:22 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:35:22 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:38:48 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:38:48 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:38:55 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:38:56 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:38:59 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:38:59 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:38:59 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:39:00 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:39:00 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:39:00 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:41:24 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:41:24 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:41:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:41:31 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:41:31 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:41:40 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:41:40 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:41:40 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:41:45 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:41:45 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:41:45 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:41:46 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:41:46 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:41:46 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:41:58 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:41:58 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:41:58 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:49:11 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:49:11 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:49:11 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:49:12 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:49:12 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:49:12 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:53:58 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:53:59 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:54:01 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:01 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:01 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:01 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:01 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:01 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:09 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:09 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:09 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:16 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:16 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:16 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:17 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:17 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:17 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:22 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:22 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:22 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:22 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:26 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:26 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:27 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:27 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:27 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:31 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:31 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:54:32 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:54:32 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:54:32 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-03-11 23:55:07 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-03-11 23:55:08 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-03-11 23:55:11 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-03-11 23:55:11 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-03-11 23:55:11 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98

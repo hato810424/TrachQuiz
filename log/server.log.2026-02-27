@@ -1,0 +1,761 @@
+2026-02-27 15:11:23 - TrachQuizServer - INFO - Server starting up...
+2026-02-27 15:11:23 - TrachQuizServer - INFO - NFC Worker started...
+2026-02-27 15:11:23 - TrachQuizServer - ERROR - Could not open NFC reader. Is it connected?
+2026-02-27 15:11:23 - TrachQuizServer - INFO - NFC Reader closed.
+2026-02-27 15:11:39 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:12:43 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:12:43 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:12:44 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:12:44 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:12:47 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:12:47 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:15:03 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:15:04 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:16:50 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:16:50 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:16:58 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:16:59 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:17:07 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:17:07 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:17:25 - TrachQuizServer - INFO - Server starting up...
+2026-02-27 15:17:25 - TrachQuizServer - INFO - NFC Worker started...
+2026-02-27 15:17:25 - TrachQuizServer - ERROR - Could not open NFC reader. Is it connected?
+2026-02-27 15:17:25 - TrachQuizServer - INFO - NFC Reader closed.
+2026-02-27 15:17:28 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:17:57 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:17:58 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:17:59 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:18:05 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:19:20 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:19:20 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:19:23 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:19:24 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:19:25 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:19:25 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:24:28 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:24:28 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:29:50 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:29:50 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:29:52 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:29:52 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:29:59 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:30:00 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:30:00 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:30:00 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:30:23 - TrachQuizServer - INFO - Server starting up...
+2026-02-27 15:30:23 - TrachQuizServer - INFO - NFC Worker started...
+2026-02-27 15:30:23 - TrachQuizServer - ERROR - Could not open NFC reader. Is it connected?
+2026-02-27 15:30:23 - TrachQuizServer - INFO - NFC Reader closed.
+2026-02-27 15:30:24 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:30:31 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:30:32 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:30:33 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:30:33 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:36:33 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:36:33 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:36:39 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:36:39 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:36:40 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:36:40 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:36:40 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:36:41 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:36:42 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:36:43 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:36:43 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:36:44 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:36:46 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:36:47 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:36:47 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:36:47 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:38:24 - TrachQuizServer - INFO - Server starting up...
+2026-02-27 15:38:24 - TrachQuizServer - INFO - NFC Worker started...
+2026-02-27 15:38:24 - TrachQuizServer - ERROR - Could not open NFC reader. Is it connected?
+2026-02-27 15:38:24 - TrachQuizServer - INFO - NFC Reader closed.
+2026-02-27 15:38:25 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:38:29 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:38:29 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:48:01 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:48:02 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:48:38 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:48:39 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:57:42 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:57:43 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 15:58:02 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 15:58:03 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:06:13 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:06:14 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:11:31 - TrachQuizServer - INFO - Server starting up...
+2026-02-27 16:11:31 - TrachQuizServer - INFO - NFC Worker started...
+2026-02-27 16:11:31 - TrachQuizServer - INFO - NFC Reader opened: ACS ACR122U PN532v1.6 at usb:002:002
+2026-02-27 16:11:33 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:11:39 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:11:39 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:13:57 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:13:57 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:14:02 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-02-27 16:14:02 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-02-27 16:14:02 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-02-27 16:14:03 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-02-27 16:14:03 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-02-27 16:14:03 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-02-27 16:14:08 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 16:14:08 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 16:14:08 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 16:14:08 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 16:14:08 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 16:14:08 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 16:14:14 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A72AFA98
+2026-02-27 16:14:14 - TrachQuizServer - INFO - UID detected: A72AFA98
+2026-02-27 16:14:14 - TrachQuizServer - INFO - Matched Category: non_burnable for UID: A72AFA98
+2026-02-27 16:14:14 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A72AFA98
+2026-02-27 16:14:14 - TrachQuizServer - INFO - UID detected: A72AFA98
+2026-02-27 16:14:14 - TrachQuizServer - INFO - Matched Category: non_burnable for UID: A72AFA98
+2026-02-27 16:14:19 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 16:14:19 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 16:14:19 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 16:14:20 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 16:14:20 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 16:14:20 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 16:14:28 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 16:14:28 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 16:14:28 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 16:18:52 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:18:53 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:18:57 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 16:18:57 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 16:18:57 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 16:18:57 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 16:18:57 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 16:18:57 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 16:19:04 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:19:06 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:24:28 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:24:28 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:30:39 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:30:39 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:30:47 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 16:30:47 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 16:30:47 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 16:30:48 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 16:30:48 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 16:30:48 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 16:30:55 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:30:56 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:31:03 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 16:31:03 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 16:31:03 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 16:31:54 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:31:55 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:44:29 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:44:29 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:55:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 16:55:25 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 16:55:25 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 16:55:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 16:55:26 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 16:55:26 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 16:55:34 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:55:35 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:59:10 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 16:59:11 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 16:59:16 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 16:59:16 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 16:59:16 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 16:59:24 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 16:59:24 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 16:59:24 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 16:59:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 16:59:25 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 16:59:25 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 16:59:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 16:59:26 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 16:59:26 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 16:59:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 16:59:26 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 16:59:26 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:04:04 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:04:05 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:04:08 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:04:08 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:04:08 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:04:09 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:04:09 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:04:09 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:04:15 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-02-27 17:04:15 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-02-27 17:04:15 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-02-27 17:04:15 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-02-27 17:04:15 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-02-27 17:04:15 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-02-27 17:04:19 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:04:19 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:04:19 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:04:20 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:04:20 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:04:20 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:04:20 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:04:20 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:04:20 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:04:21 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:04:21 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:04:21 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:04:21 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:04:21 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:04:21 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:04:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:04:22 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:04:22 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:04:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:04:22 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:04:22 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:04:23 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:04:23 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:04:23 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:04:23 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:04:23 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:04:23 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:06:29 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:06:29 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:06:29 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:06:30 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:06:30 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:06:30 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:06:30 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:06:30 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:06:30 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:06:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:06:31 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:06:31 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:06:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:06:31 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:06:31 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:06:32 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:06:32 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:06:32 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:06:35 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:06:35 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:06:35 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:06:36 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:06:36 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:06:36 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:06:36 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:06:36 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:06:36 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:06:37 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:06:37 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:06:37 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:06:37 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:06:37 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:06:38 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:06:38 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:06:38 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:06:38 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:06:39 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:06:39 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:06:39 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:13:46 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:13:47 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:16:53 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:16:53 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:20:15 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:20:15 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:20:23 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:20:25 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:20:36 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:20:36 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:20:38 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:20:39 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:20:39 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:20:40 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:21:43 - TrachQuizServer - INFO - Server starting up...
+2026-02-27 17:21:43 - TrachQuizServer - INFO - NFC Worker started...
+2026-02-27 17:21:43 - TrachQuizServer - INFO - NFC Reader opened: ACS ACR122U PN532v1.6 at usb:002:002
+2026-02-27 17:21:52 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:26:04 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:26:05 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:30:32 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:30:33 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:36:45 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:36:46 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:39:40 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:39:40 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:42:10 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:42:11 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:46:55 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:46:55 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:49:12 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:49:12 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:49:38 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:49:38 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:49:38 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:49:38 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:49:38 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:49:38 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:52:15 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:52:16 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:52:19 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:52:19 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:52:19 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:52:20 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:52:20 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:52:20 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:52:24 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:52:24 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:52:24 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:52:24 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:52:24 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:52:24 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:52:27 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:52:27 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:52:27 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:52:28 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:52:28 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:52:28 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:52:30 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:52:30 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:52:30 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:52:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:52:31 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:52:31 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:52:33 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:52:33 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:52:33 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:52:34 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:52:34 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:52:34 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:54:59 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:54:59 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:54:59 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:55:00 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 17:55:00 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 17:55:00 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 17:55:06 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:55:06 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:55:06 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:55:07 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:55:07 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:55:07 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:55:08 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 17:55:08 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 17:55:08 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 17:59:30 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 17:59:30 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 17:59:38 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:59:38 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:59:38 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:59:39 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:59:39 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:59:39 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 17:59:39 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 17:59:39 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 17:59:39 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 18:04:51 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:04:51 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:25:38 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:25:39 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:25:43 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:25:44 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:29:28 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:29:28 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:29:35 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:29:37 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:29:39 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:29:41 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:38:35 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:38:35 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:47:18 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:47:19 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:50:25 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:50:26 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:55:45 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:55:46 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 18:59:12 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 18:59:12 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 19:04:45 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 19:04:45 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 19:11:18 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 19:11:19 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 19:16:32 - TrachQuizServer - INFO - Server starting up...
+2026-02-27 19:16:32 - TrachQuizServer - INFO - NFC Worker started...
+2026-02-27 19:16:49 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 19:17:01 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 19:17:10 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 19:17:10 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 19:17:18 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 19:17:18 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 19:17:18 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 19:17:18 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 19:17:18 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 19:17:18 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 19:17:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-02-27 19:17:22 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-02-27 19:17:22 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-02-27 19:17:23 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-02-27 19:17:23 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-02-27 19:17:23 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-02-27 19:17:27 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A72AFA98
+2026-02-27 19:17:27 - TrachQuizServer - INFO - UID detected: A72AFA98
+2026-02-27 19:17:27 - TrachQuizServer - INFO - Matched Category: non_burnable for UID: A72AFA98
+2026-02-27 19:17:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A72AFA98
+2026-02-27 19:17:31 - TrachQuizServer - INFO - UID detected: A72AFA98
+2026-02-27 19:17:31 - TrachQuizServer - INFO - Matched Category: non_burnable for UID: A72AFA98
+2026-02-27 19:17:37 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 19:17:37 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 19:17:37 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 19:17:37 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 19:17:37 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 19:17:37 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 19:17:49 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 19:17:49 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 19:17:59 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 19:18:00 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 19:29:22 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 19:29:25 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 19:30:38 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 20:43:01 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 20:43:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:43:22 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:43:22 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:43:24 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:43:24 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:43:24 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:43:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:43:26 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:43:27 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:43:27 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:43:27 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:43:28 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:43:29 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:43:29 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:43:29 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:43:29 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:43:29 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:43:29 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:43:30 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:43:30 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:43:30 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:43:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:43:31 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:43:31 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:43:32 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:43:32 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:43:32 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:44:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:44:25 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:44:26 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:44:27 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:44:27 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:44:27 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:44:28 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:44:28 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:44:28 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:44:34 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 20:45:21 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 20:45:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:45:25 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:45:25 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:45:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:45:26 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:45:26 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:45:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:45:26 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:45:26 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:45:27 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:45:27 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:45:27 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:45:28 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:45:28 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:45:28 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:45:34 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:45:34 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:45:34 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:45:35 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:45:35 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:45:35 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:45:36 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:45:36 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:45:36 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:45:37 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:45:37 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:45:37 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:45:38 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:45:38 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:45:38 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:45:38 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:45:38 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:45:38 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:45:45 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 20:45:45 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 20:45:45 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 20:45:51 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 20:45:52 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 20:53:33 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 20:54:08 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 20:54:18 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 20:54:19 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 20:54:34 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 20:54:34 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 20:54:57 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 20:55:01 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 20:55:29 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:55:29 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:55:29 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:55:35 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:55:35 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:55:35 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:55:35 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:55:35 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:55:35 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:55:40 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:55:40 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:55:40 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:55:45 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:55:45 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:55:45 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:55:48 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 20:55:48 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 20:55:48 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 20:55:55 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 20:55:56 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 20:57:30 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 20:57:31 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 21:09:47 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 21:10:34 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 21:10:36 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 21:10:39 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 21:10:39 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 21:10:39 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 21:10:56 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 21:10:56 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 21:10:56 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 21:11:06 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 21:11:06 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 21:11:06 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 21:11:38 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 21:11:38 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 21:11:38 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 21:15:48 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 21:17:15 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 21:17:33 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 21:17:33 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 21:17:33 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 21:17:39 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 21:17:43 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 21:17:44 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 21:17:48 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 21:17:48 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 21:17:48 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 21:17:48 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 21:17:48 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 21:17:48 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 21:33:39 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 21:33:59 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 21:34:00 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 21:34:04 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 21:34:04 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 21:34:04 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 21:34:11 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=87C88C98
+2026-02-27 21:34:11 - TrachQuizServer - INFO - UID detected: 87C88C98
+2026-02-27 21:34:11 - TrachQuizServer - INFO - Matched Category: oversized for UID: 87C88C98
+2026-02-27 21:34:16 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:34:16 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:34:16 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:34:20 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=A7D9B498
+2026-02-27 21:34:20 - TrachQuizServer - INFO - UID detected: A7D9B498
+2026-02-27 21:34:20 - TrachQuizServer - INFO - Matched Category: burnable for UID: A7D9B498
+2026-02-27 21:34:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=9712EA98
+2026-02-27 21:34:26 - TrachQuizServer - INFO - UID detected: 9712EA98
+2026-02-27 21:34:26 - TrachQuizServer - INFO - Matched Category: hazardous for UID: 9712EA98
+2026-02-27 21:44:22 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 21:47:36 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 21:48:10 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 21:48:16 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 21:48:17 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 21:48:23 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:48:23 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:48:23 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:48:24 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:48:24 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:48:24 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:48:28 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:48:28 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:48:28 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:48:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:48:31 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:48:31 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:48:35 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:48:35 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:48:35 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:48:39 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:48:39 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:48:39 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:53:37 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 21:54:05 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 21:54:06 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 21:54:10 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:10 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:10 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:11 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:11 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:11 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:15 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:15 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:15 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:16 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:16 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:16 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:19 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:19 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:19 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:23 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:23 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:23 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:26 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:26 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:54 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:54 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:54 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:54 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:54 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:54 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:56 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:56 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:56 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:56 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:56 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:56 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:57 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:57 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:57 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:58 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:58 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:58 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:59 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:59 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:59 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:54:59 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:54:59 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:54:59 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:55:00 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:55:00 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:55:00 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:55:01 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:55:01 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:55:01 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:55:03 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:55:03 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:55:03 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:55:07 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:55:07 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:55:07 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 21:55:11 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 21:55:11 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 21:55:11 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:01:56 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 22:02:54 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 22:02:59 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 22:03:19 - TrachQuizServer - INFO - Client disconnected. Active connections: 0
+2026-02-27 22:03:19 - TrachQuizServer - INFO - Client connected. Active connections: 1
+2026-02-27 22:03:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:03:25 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:03:25 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:03:25 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:03:25 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:03:25 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:03:30 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:03:30 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:03:30 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:03:35 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:03:35 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:03:35 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:03:39 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:03:39 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:03:39 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:03:43 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:03:43 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:03:43 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:09:44 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 22:10:12 - TrachQuizServer - INFO - Client disconnected. Active connections: 1
+2026-02-27 22:10:14 - TrachQuizServer - INFO - Client connected. Active connections: 2
+2026-02-27 22:10:18 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:18 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:18 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:18 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:18 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:18 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:19 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:19 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:19 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:20 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:20 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:20 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:23 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:23 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:23 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:24 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:24 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:24 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:27 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:27 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:27 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:27 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:27 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:27 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:30 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:30 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:30 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:31 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:31 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:10:33 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:10:33 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:10:33 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:14:20 - TrachQuizServer - INFO - Client connected. Active connections: 3
+2026-02-27 22:14:46 - TrachQuizServer - INFO - Client disconnected. Active connections: 2
+2026-02-27 22:14:47 - TrachQuizServer - INFO - Client connected. Active connections: 3
+2026-02-27 22:14:52 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:14:52 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:14:52 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:14:53 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:14:53 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:14:53 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:14:53 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:14:53 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:14:53 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:14:58 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:14:58 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:14:58 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:15:02 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:15:02 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:15:02 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:15:05 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:15:05 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:15:05 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:15:09 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:15:09 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:15:09 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:19:56 - TrachQuizServer - INFO - Client disconnected. Active connections: 2
+2026-02-27 22:19:56 - TrachQuizServer - INFO - Client connected. Active connections: 3
+2026-02-27 22:20:22 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:20:22 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:20:22 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:20:26 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:20:26 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:20:26 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:20:27 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:20:27 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:20:27 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:20:31 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:20:31 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:20:31 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:20:34 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:20:34 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:20:34 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:20:37 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:20:37 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:20:37 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:20:41 - TrachQuizServer - INFO - Tag detected details: Type2Tag ID=97D7EE98
+2026-02-27 22:20:41 - TrachQuizServer - INFO - UID detected: 97D7EE98
+2026-02-27 22:20:41 - TrachQuizServer - INFO - Matched Category: recyclable for UID: 97D7EE98
+2026-02-27 22:21:04 - TrachQuizServer - INFO - Client disconnected. Active connections: 2
