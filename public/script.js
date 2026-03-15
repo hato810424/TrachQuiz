@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const howtoBtn = document.getElementById('btn-howto');
     const backToTitleBtn = document.getElementById('btn-back-to-title');
     const nextBtn = document.getElementById('next-btn');
+    const nextQuestionBtn = document.getElementById('btn-next-question');
     const restartBtn = document.getElementById('restart-btn');
 
     const trashName = document.getElementById('trash-name');
@@ -147,6 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         
         if (nextBtn) nextBtn.addEventListener('click', nextQuestion);
+        if (nextQuestionBtn) nextQuestionBtn.addEventListener('click', handleNextQuestion);
         
         // Back to Home button on result screen
         if (backToHomeBtn) {
@@ -234,6 +236,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         }
                     } else {
                         // Normal quiz answering
+                        // "次の問題へ" tag should not be used for answering
+                        if (data.category === '次の問題へ') {
+                            console.log('Ignored "次の問題へ" tag during answering');
+                            return;
+                        }
                         handleAnswer(data.category);
                     }
                 }
