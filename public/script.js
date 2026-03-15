@@ -228,7 +228,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     if (isExplanationVisible) {
                         // If explanation is visible, any NFC tag (like "〇" or "×") advances to next question
-                        if (data.category === '〇') {
+                        if (data.category === '次の問題へ') {
                             console.log('NFC tag detected during explanation, moving to next question');
                             handleNextQuestion();
                         }
