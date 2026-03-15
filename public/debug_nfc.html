@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web NFC Debugger</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        #status {
+            margin-bottom: 20px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .ready { background-color: #d4edda; color: #155724; }
+        .error { background-color: #f8d7da; color: #721c24; }
+        .reading { background-color: #fff3cd; color: #856404; }
+        button {
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:disabled {
+            background-color: #ccc;
+        }
+        #log {
+            margin-top: 20px;
+            width: 90%;
+            max-width: 500px;
+            height: 200px;
+            overflow-y: auto;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-family: monospace;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Web NFC Debugger</h1>
+    <p>このページをngrokなどでhttpsで公開する必要があります</p>
+    <div id="status">NFCをスキャンするにはボタンを押してください</div>
+    <button id="scanButton">スキャン開始</button>
+    <div id="log"></div>
+
+    <script>
+        const statusDiv = document.getElementById('status');
+        const scanButton = document.getElementById('scanButton');
+        const logDiv = document.getElementById('log');
+
+        function log(message) {
+            const entry = document.createElement('div');
+            entry.textContent = `[${new Date().toLocaleTimeString()}] ${message}`;
+            logDiv.prepend(entry);
+            console.log(message);
+        }
+
+        if (!('NDEFReader' in window)) {
+            statusDiv.textContent = 'このブラウザはWeb NFCをサポートしていません。AndroidのChromeなどで試してください。';
+            statusDiv.className = 'error';
+            scanButton.disabled = true;
+        }
+
+        let ws;
+        function connectWebSocket() {
+            const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsUrl = `${protocol}//${window.location.host}/api/ws`;
+            ws = new WebSocket(wsUrl);
+            
+            ws.onopen = () => log('WebSocket接続完了');
+            ws.onclose = () => {
+                log('WebSocket切断。再接続します...');
+                setTimeout(connectWebSocket, 3000);
+            };
+            ws.onerror = (err) => log('WebSocketエラー');
+        }
+
+        connectWebSocket();
+
+        scanButton.addEventListener('click', async () => {
+            try {
+                const reader = new NDEFReader();
+                await reader.scan();
+                
+                statusDiv.textContent = 'スキャン中... NFCタグを近づけてください';
+                statusDiv.className = 'reading';
+                scanButton.disabled = true;
+
+                reader.onreading = ({ message, serialNumber }) => {
+                    const uid = serialNumber.replace(/:/g, '').toUpperCase();
+                    log(`タグ検出: UID=${uid}`);
+                    
+                    if (ws && ws.readyState === WebSocket.OPEN) {
+                        // サーバー側の on_connect_wrapper と同じ形式で送る
+                        // サーバー側は現在受信データをログに出すだけだが、
+                        // 必要に応じてサーバー側でブロードキャストするように変更可能
+                        ws.send(JSON.stringify({ type: 'nfc_debug', uid: uid }));
+                        log(`サーバーに送信しました: ${uid}`);
+                    }
+                };
+
+                reader.onreadingerror = () => {
+                    log('読み取りエラーが発生しました。');
+                };
+
+            } catch (error) {
+                log(`エラー: ${error}`);
+                statusDiv.textContent = `エラー: ${error.message}`;
+                statusDiv.className = 'error';
+            }
+        });
+    </script>
+</body>
+</html>

@@ -157,6 +157,25 @@ async def websocket_endpoint(websocket: WebSocket):
             # Keep connection open and just log received text
             data = await websocket.receive_text() 
             logger.debug(f"Received from client: {data}")
+            
+            # Web NFC debugger からのデータを処理
+            try:
+                msg = json.loads(data)
+                if msg.get("type") == "nfc_debug":
+                    uid = msg.get("uid")
+                    logger.info(f"Web NFC Debug detected UID: {uid}")
+                    
+                    mapping = load_mapping()
+                    category = mapping.get(uid)
+                    
+                    if category:
+                        logger.info(f"Matched Category from Web NFC: {category} for UID: {uid}")
+                        broadcast_msg = json.dumps({"type": "answer", "category": category})
+                        await manager.broadcast(broadcast_msg)
+                    else:
+                        logger.info(f"Web NFC UID {uid} not found in mapping.")
+            except Exception as e:
+                logger.error(f"Error processing websocket data: {e}")
     except WebSocketDisconnect:
         manager.disconnect(websocket)
     except Exception as e:
