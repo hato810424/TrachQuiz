@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const howtoBtn = document.getElementById('btn-howto');
     const backToTitleBtn = document.getElementById('btn-back-to-title');
     const nextBtn = document.getElementById('next-btn');
+    const nextQuestionBtn = document.getElementById('btn-next-question');
     const restartBtn = document.getElementById('restart-btn');
 
     const trashName = document.getElementById('trash-name');
@@ -98,6 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let startTime = null;
     let totalTime = 0;
     const timerDisplay = document.getElementById('timer-display');
+    let isTransitioning = false; // Flag to prevent rapid NFC scanning during transitions
     
     // Screen switching function using class-based approach
     function activateScreen(screenId) {
@@ -146,12 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         
         if (nextBtn) nextBtn.addEventListener('click', nextQuestion);
-        
-        // Space key button on red explanation box
-        const spaceKeyBtn = document.getElementById('btn-space-key');
-        if (spaceKeyBtn) {
-            spaceKeyBtn.addEventListener('click', handleNextQuestion);
-        }
+        if (nextQuestionBtn) nextQuestionBtn.addEventListener('click', handleNextQuestion);
         
         // Back to Home button on result screen
         if (backToHomeBtn) {
@@ -166,16 +163,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (interruptYesBtn) interruptYesBtn.addEventListener('click', interruptQuiz);
         if (interruptNoBtn) interruptNoBtn.addEventListener('click', hideInterruptDialog);
 
-        // Keyboard input for NFC/Direct input (1, 2, 3, 4 keys) and Space key
+        // Keyboard input for NFC/Direct input (1, 2, 3, 4 keys)
         document.addEventListener('keydown', (event) => {
-            // Space key: advance to next question when explanation is displayed
-            if (event.code === 'Space' && !document.getElementById('explanation-red-box').classList.contains('hidden')) {
-                event.preventDefault();
-                console.log('Space key pressed during explanation');
-                handleNextQuestion();
-                return;
-            }
-
             // Only accept numeric input during quiz screen and when answering
             if (!quizScreen.classList.contains('active') || !isAnswering) {
                 return;
@@ -227,8 +216,33 @@ document.addEventListener('DOMContentLoaded', () => {
             try {
                 const data = JSON.parse(event.data);
                 console.log('WebSocket parsed data:', data);
+
+                const explanationBox = document.getElementById('explanation-red-box');
+                const isExplanationVisible = explanationBox && !explanationBox.classList.contains('hidden');
+
                 if (data.type === 'answer' && data.category) {
-                    handleAnswer(data.category);
+                    console.log(`Processing answer: ${data.category}, isAnswering: ${isAnswering}, isExplanationVisible: ${isExplanationVisible}`);
+                    
+                    if (isTransitioning) {
+                        console.log('NFC tag detected during transition, ignoring');
+                        return;
+                    }
+
+                    if (isExplanationVisible) {
+                        // If explanation is visible, any NFC tag (like "〇" or "×") advances to next question
+                        if (data.category === '次の問題へ') {
+                            console.log('NFC tag detected during explanation, moving to next question');
+                            handleNextQuestion();
+                        }
+                    } else {
+                        // Normal quiz answering
+                        // "次の問題へ" tag should not be used for answering
+                        if (data.category === '次の問題へ') {
+                            console.log('Ignored "次の問題へ" tag during answering');
+                            return;
+                        }
+                        handleAnswer(data.category);
+                    }
                 }
             } catch (e) {
                 console.error('Error processing WebSocket message:', e);
@@ -444,6 +458,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     function handleNextQuestion() {
+        if (isTransitioning) return;
+        isTransitioning = true;
+        
         // Hide red explanation box with fade-out
         document.getElementById('explanation-red-box').classList.add('fade-out');
         
@@ -462,6 +479,12 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             showResult();
         }
+
+        // Reset transitioning flag after 1.5 seconds to prevent rapid scanning
+        setTimeout(() => {
+            isTransitioning = false;
+            console.log('NFC scanning re-enabled');
+        }, 2000);
     }
 
     function showResult() {
