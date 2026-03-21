@@ -1,6 +1,6 @@
 [
   {
-    "id": 25,
+    "id": 1,
     "difficulty": "easy",
     "title": "おかしのふくろ",
     "question": "ポテトチップスなど「おかしのふくろ」は何のごみ？",
@@ -9,16 +9,16 @@
     "image": ""
   },
   {
-    "id": 26,
+    "id": 2,
     "difficulty": "easy",
     "title": "ジュースのふた",
     "question": "ペットボトルの「キャップ（ふた）」は何のごみ？",
     "answer": "プラスチック製容器包装・製品",
-    "explanation": "ふたは「ペットボトル」のごみとは別に出してね",
+    "explanation": "ふたは「ペットボトル」のごみとはべつに出してね",
     "image": ""
   },
   {
-    "id": 27,
+    "id": 3,
     "difficulty": "easy",
     "title": "えんぴつ",
     "question": "「えんぴつ」はなんのごみ？",
@@ -27,7 +27,7 @@
     "image": ""
   },
   {
-    "id": 28,
+    "id": 4,
     "difficulty": "easy",
     "title": "しんぶんし",
     "question": "「しんぶんし」はなんのごみ？",
@@ -36,7 +36,7 @@
     "image": ""
   },
   {
-    "id": 29,
+    "id": 5,
     "difficulty": "easy",
     "title": "ダンボール",
     "question": "「ダンボール」は何のごみ？",
@@ -45,16 +45,16 @@
     "image": ""
   },
   {
-    "id": 30,
+    "id": 6,
     "difficulty": "easy",
     "title": "ぎゅうにゅうぱっく",
     "question": "「ぎゅうにゅうぱっく」は何のごみ？",
     "answer": "古紙",
-    "explanation": "はさみで開いて、乾かしてから出してね。リサイクルされるよ",
+    "explanation": "はさみで開いて、かわかしてから出してね。リサイクルされるよ",
     "image": ""
   },
   {
-    "id": 31,
+    "id": 7,
     "difficulty": "easy",
     "title": "おえかき",
     "question": "「くれよん」は何のごみ？",
@@ -63,16 +63,16 @@
     "image": ""
   },
   {
-    "id": 32,
+    "id": 8,
     "difficulty": "easy",
     "title": "かんでんち",
-    "question": "「でんち」を「もやせるごみ」ですてていい？",
+    "question": "つかいおわった「でんち」は何のごみ？",
     "answer": "燃やせないごみ",
-    "explanation": "電池を燃やせるごみに混ぜると火事になるから、絶対だめだよ",
+    "explanation": "かんでんち　は、テープでくるんでからすててね。そうしないとかじになるよ。",
     "image": ""
   },
   {
-    "id": 33,
+    "id": 9,
     "difficulty": "easy",
     "title": "かん",
     "question": "ジュースやココアの「かん」は何のごみ？",
@@ -81,25 +81,25 @@
     "image": ""
   },
   {
-    "id": 34,
+    "id": 10,
     "difficulty": "easy",
     "title": "こわれたおもちゃ",
-    "question": "プラスチックでできた「かたいおもちゃ」がこわれちゃった",
-    "answer": "燃やせないごみ",
-    "explanation": "かたいプラスチックのおもちゃは、もやせないごみなんだ",
+    "question": "プラスチックでできた「おもちゃ」がこわれちゃった。リサイクルのマークがついている",
+    "answer": "プラスチック製容器包装・製品",
+    "explanation": "リサイクルマークがあるときは、プラスチックごみ",
     "image": ""
   },
   {
-    "id": 35,
+    "id": 11,
     "difficulty": "easy",
-    "title": "たべのこし",
-    "question": "「たべのこし」はなんのごみ？",
+    "title": "おりょうり",
+    "question": "「なまごみ」はなんのごみ？",
     "answer": "燃やせるごみ",
     "explanation": "水をよくきってからすてる。",
     "image": ""
   },
   {
-    "id": 36,
+    "id": 12,
     "difficulty": "easy",
     "title": "ふく",
     "question": "からだがおおきくなって、きられなくなった、ふく",
@@ -108,7 +108,7 @@
     "image": ""
   },
   {
-    "id": 37,
+    "id": 13,
     "difficulty": "easy",
     "title": "ふく",
     "question": "しゃつ、くつした、パンツ。おおきくなってきられなくなった",
@@ -117,7 +117,7 @@
     "image": ""
   },
   {
-    "id": 38,
+    "id": 14,
     "difficulty": "easy",
     "title": "われたコップ",
     "question": "ガラスのコップをおとして、わってしまった。",
@@ -126,7 +126,7 @@
     "image": ""
   },
   {
-    "id": 39,
+    "id": 15,
     "difficulty": "easy",
     "title": "かさ",
     "question": "こわれた「かさ」",
@@ -135,7 +135,7 @@
     "image": ""
   },
   {
-    "id": 40,
+    "id": 16,
     "difficulty": "easy",
     "title": "みかんのネット",
     "question": "みかんが入っている「あみあみ」のネット",
@@ -144,7 +144,7 @@
     "image": ""
   },
   {
-    "id": 41,
+    "id": 17,
     "difficulty": "easy",
     "title": "おふろのおもちゃ",
     "question": "おふろであそぶビニールの「あひる」は、なにのごみ",
@@ -153,12 +153,30 @@
     "image": ""
   },
   {
-    "id": 42,
+    "id": 18,
     "difficulty": "easy",
     "title": "すてかた",
-    "question": "おとうさんが、ごみのすてかたで、こまっていた。マッシュ君にきいてみてとアドバイスした。",
+    "question": "おとうさんが、ごみのすてかたで、こまっていた。\nラインでマッシュ君にきいてみてとアドバイスした。",
     "answer": "〇",
     "explanation": "おとうさん、おかあさんがこまっていたら、ラインでマッシュ君にきいてみよう。",
+    "image": ""
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "title": "あきびん",
+    "question": "ジュースをのんだあとの「びん」",
+    "answer": "びん",
+    "explanation": "「びん」にすててリサイクル",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "title": "すてかた",
+    "question": "いらなくなった、ちらし",
+    "answer": "古紙",
+    "explanation": "古紙（こし）にすてて、リサイクル",
     "image": ""
   }
 ]
